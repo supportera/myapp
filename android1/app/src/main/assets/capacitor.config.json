@@ -1,0 +1,17 @@
+{
+	"appId": "com.litewallet.app",
+	"appName": "LiteWallet",
+	"webDir": "dist",
+	"bundledWebRuntime": false,
+	"android": {
+		"allowMixedContent": true,
+		"captureInput": true,
+		"backgroundColor": "#FAF6F0"
+	},
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 1500,
+			"backgroundColor": "#B45A00"
+		}
+	}
+}

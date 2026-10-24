@@ -1,0 +1,6 @@
+{
+  "name": "LiteWallet Android & Web3 Mobile Wallet",
+  "description": "Konversi Chrome Extension LiteWallet menjadi aplikasi Android responsif, PWA, dan Capacitor APK siap pakai dengan kriptografi Ed25519 & Keccak256.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

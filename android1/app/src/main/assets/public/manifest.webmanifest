@@ -1,0 +1,23 @@
+{
+  "name": "LiteWallet Mobile",
+  "short_name": "LiteWallet",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF6F0",
+  "theme_color": "#B45A00",
+  "orientation": "portrait",
+  "description": "LiteWallet for Lightweight Chain (Ed25519 + Keccak256)",
+  "icons": [
+    {
+      "src": "/icons/icon128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon256.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

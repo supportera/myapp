@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'Figtree';
+  src: url('/fonts/figtree-latin-wght-normal.woff2') format('woff2');
+  font-weight: 300 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  --accent: #B45A00;
+  --accent-dark: #8C4600;
+  --accent-soft: #F5E3D0;
+  --flame: #D9D9D9;
+  --bg: #FAF6F0;
+  --card: #FFFFFF;
+  --text: #2E1B04;
+  --muted: #8A7360;
+  --border: #E6DAC8;
+  --font-brand: 'Figtree', system-ui, -apple-system, sans-serif;
+}
+
+body {
+  font-family: var(--font-brand);
+  background-color: #FAF6F0;
+  color: #2E1B04;
+  -webkit-tap-highlight-color: transparent;
+}
